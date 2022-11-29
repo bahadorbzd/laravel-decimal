@@ -1,0 +1,17 @@
+{
+  "name": "bahadorbzd/laravel-decimal",
+  "autoload": {
+    "psr-4": {
+      "Bzd\\laravelDecimal\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Bahador Babazadeh",
+      "email": "email.bahador@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-decimal": "*"
+  }
+}
